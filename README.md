@@ -1,5 +1,3 @@
-# Pulse-Newsletter
+# Digital-Community-Crisis-Response
 
-This repository currently holds my workspace for a qualitative, ethnographic analysis of the MSU Discord server on 2/13/2023, the night of the school shooting. 
-
-The final report will be published in the MSU MPH Student Newsletter, of which I am the editor
+This repository holds the work and data behind [this](https://tyg3r.com/digital-community/) article, where I examine the role digital community within the MSU student Discord server in the hours after the tragic school shooting in February 2023. 
